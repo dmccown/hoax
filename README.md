@@ -26,4 +26,4 @@ _Note that hoax's unit tests require Eunit >= 2.2.1 (OTP R14B04)._
 
   [1]: https://github.com/rebar/rebar "Rebar - A build tool for Erlang"
 
-:poop:
+:poop: :smile:
