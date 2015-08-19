@@ -29,4 +29,4 @@ _Note that hoax's unit tests require Eunit >= 2.2.1 (OTP R14B04)._
 Hello
 
 Trying to test something
-test
+testing 2
