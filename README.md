@@ -28,4 +28,3 @@ _Note that hoax's unit tests require Eunit >= 2.2.1 (OTP R14B04)._
 
 I am pulling a request.
 
-dafdasfadsf
